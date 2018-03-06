@@ -588,8 +588,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.MVVM-Sample";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "f05593f7-70f9-459e-af27-1b80deefe2a2";
-				PROVISIONING_PROFILE_SPECIFIER = YasirDevProfileWajibati;
+				PROVISIONING_PROFILE = "584808c8-06c9-4f03-997d-2390cf58dba5";
+				PROVISIONING_PROFILE_SPECIFIER = TeamProvisioningProfile;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -604,8 +604,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.MVVM-Sample";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "f05593f7-70f9-459e-af27-1b80deefe2a2";
-				PROVISIONING_PROFILE_SPECIFIER = YasirDevProfileWajibati;
+				PROVISIONING_PROFILE = "584808c8-06c9-4f03-997d-2390cf58dba5";
+				PROVISIONING_PROFILE_SPECIFIER = TeamProvisioningProfile;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
